@@ -1,3 +1,4 @@
 Text file
+br2
 now edited
 Again edited
